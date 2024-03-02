@@ -1,0 +1,114 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "image": "img/product1.png",
+      "name": "Black",
+      "price": "$249",
+      "type": "phone"
+    },
+    {
+      "id": 2,
+      "image": "img/product2.png",
+      "name": "Red Black",
+      "price": "$249",
+      "type": "phone"
+    },
+    {
+      "id": 3,
+      "image": "img/product3.png",
+      "name": "Night Black",
+      "price": "$249",
+      "type": "phone"
+    },
+    {
+      "id": 4,
+      "image": "img/product4.png",
+      "name": "Blue",
+      "price": "$249",
+      "type": "phone"
+    },
+    {
+      "id": 5,
+      "image": "img/product5.png",
+      "name": "Twilight gray",
+      "price": "$249",
+      "type": "phone"
+    },
+    {
+      "id": 6,
+      "image": "img/ik-removebg-preview.png",
+      "name": "Truly wireless",
+      "price": "$430",
+      "type": "ear"
+    },
+    {
+      "id": 7,
+      "image": "img/xiomi-air-pods.png",
+      "name": "Truly wireless",
+      "price": "$399",
+      "type": "ear"
+    },
+    {
+      "id": 8,
+      "image": "img/New-Hot-selling.png",
+      "name": "Truly wireless",
+      "price": "$349",
+      "type": "other"
+    },
+    {
+      "id": 9,
+      "image": "img/OIP-removebg-preview.png",
+      "name": "Truly wireless",
+      "price": "$470",
+      "type": "ear"
+    },
+    {
+      "id": 10,
+      "image": "img/OIP__1_-removebg-preview.png",
+      "name": "Truly wireless",
+      "price": "$349",
+      "type": "other"
+    },
+    {
+      "id": 11,
+      "image": "img/OIP__2_-removebg-preview.png",
+      "name": "Truly wireless",
+      "price": "$349",
+      "type": "other"
+    },
+    {
+      "id": 12,
+      "image": "img/OIP__3_-removebg-preview.png",
+      "name": "Truly wireless",
+      "price": "$349",
+      "type": "other"
+    }
+  ],
+  "Headings": [
+    {
+      "id": 1,
+      "title": "All",
+      "dataGoal": "all",
+      "active": true
+    },
+    {
+      "id": 1,
+      "title": "Headphone",
+      "dataGoal": "phone",
+      "active": true
+    },
+    {
+      "id": 1,
+      "title": "Earbuds",
+      "dataGoal": "ear",
+      "active": true
+    },
+    {
+      "id": 1,
+      "title": "Accesories",
+      "dataGoal": "other",
+      "active": true
+    }
+  ]
+}
